@@ -1,0 +1,26 @@
+
+/* td:first-child{
+    background-color: yellow;
+    color: red;
+    font-size: larger;
+    font-family: 'Courier New', Courier, monospace;
+    font-style: italic;
+}
+*/
+table, th, td{
+    border: 1px solid black;
+}
+/*
+th{
+    background-color: blue;
+} 
+
+tr:first-child{
+    background-color: green;
+} */
+
+tr:nth-child(2n){
+    background-color: yellow;
+}
+
+ 

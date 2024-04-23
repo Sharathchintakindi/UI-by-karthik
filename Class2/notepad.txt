@@ -1,0 +1,12 @@
+For next class
+
+Truthy and falsy in javaScript
+
+&&  ||
+print values form 1 to 100 
+how to intailaize an array
+
+Datatypes:
+
+Var: used to create variable
+syntax: var val1 = 10;  
